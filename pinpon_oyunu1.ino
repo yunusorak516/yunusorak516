@@ -1,10 +1,17 @@
-#include <SPI.h> #include <Wire.h> #include <Adafruit_GFX.h> #include <Adafruit_SSD1306.h>
+#include <SPI.h> 
+#include <Wire.h> 
+#include <Adafruit_GFX.h> 
+#include <Adafruit_SSD1306.h>
 
-#define UP_BUTTON 2 #define DOWN_BUTTON 3
+#define UP_BUTTON 2 
+#define DOWN_BUTTON 3
 
-const unsigned long PADDLE_RATE = 33; const unsigned long BALL_RATE = 16; const uint8_t PADDLE_HEIGHT = 24;
+const unsigned long PADDLE_RATE = 33; 
+const unsigned long BALL_RATE = 16; 
+const uint8_t PADDLE_HEIGHT = 24;
 
-#define SCREEN_WIDTH 128 #define SCREEN_HEIGHT 64
+#define SCREEN_WIDTH 128 
+#define SCREEN_HEIGHT 64
 
 #define OLED_RESET 4 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 
