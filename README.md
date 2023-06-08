@@ -5,8 +5,11 @@ Projenin Devre Şeması
 
 Projede Kullanılan Malzemeler :
 *x1 Adet Arduino Uno
+
 *x8 Adet Jumper Kablo
+
 *x2 Adet Push Buton
+
 *x1 Adet LCD OLED Ekran (0.96 İNC 128x64)
 
 
