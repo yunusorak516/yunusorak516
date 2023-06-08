@@ -24,9 +24,11 @@ Projenin Resmi
 
 
 Projenin Bağlantıları
+
 Youtube : https://www.youtube.com/@yunuswq.1
 
 
 Projeyi Gerçekleştirenler :
+
 -Yunus Orak 516
 -Deniz Arda 283
