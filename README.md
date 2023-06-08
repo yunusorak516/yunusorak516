@@ -12,7 +12,8 @@ Projenin Devre Şeması
 
 
 Projenin Resmi
-![pingpong devre resmi] (https://github.com/yunusorak516/yunusorak516/assets/134952403/18d0004f-39b9-41e6-bad6-49185779ecd4)
+![pingpong şematik görünüm](https://github.com/yunusorak516/yunusorak516/assets/134952403/80c372c1-434f-4d3f-97a5-22cf87366b07)
+
 
 
 
